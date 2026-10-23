@@ -65,12 +65,6 @@ AI Günlük'ü uygulama mağazalarına ihtiyaç duymadan doğrudan telefonunuza 
 
 ---
 
-## 📄 Vitrin Deposu Hakkında
-
-> 🔒 **Gizlilik Notu:** Bu depo, AI Günlük projesinin **herkese açık vitrin ve tanıtım merkezidir**. Arka planda çalışan tescilli veri toplama ve otonom kürasyon kodları özel (private) depoda korunmaktadır.
-
----
-
 <div align="center">
 
 Geliştirici: [**@strangervibe**](https://github.com/strangervibe)
