@@ -9,7 +9,6 @@
 
 [![Canlı Platform](https://img.shields.io/badge/Canlı%20Platform-aigunluk.vercel.app-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://aigunluk.vercel.app)
 [![Yapay Zeka](https://img.shields.io/badge/Yapay%20Zeka-Otonom%20Kürasyon-6366F1?style=for-the-badge)](https://aigunluk.vercel.app)
-[![Frekans](https://img.shields.io/badge/Otonomi-Günde%204x%20Canlı-10B981?style=for-the-badge&logo=githubactions&logoColor=white)](https://aigunluk.vercel.app)
 [![Platform](https://img.shields.io/badge/Platform-PWA%20%E2%80%A2%20Web-0070F3?style=for-the-badge&logo=pwa&logoColor=white)](https://aigunluk.vercel.app)
 [![Geliştirici](https://img.shields.io/badge/Geliştirici-@strangervibe-black?style=for-the-badge&logo=github)](https://github.com/strangervibe)
 
