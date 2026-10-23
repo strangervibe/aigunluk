@@ -73,7 +73,7 @@ AI Günlük'ü uygulama mağazalarına ihtiyaç duymadan doğrudan telefonunuza 
 
 <div align="center">
 
-Geliştirici: [**@strangervibe**](https://github.com/strangervibe) • Vibe Coding ile inşa edildi.
+Geliştirici: [**@strangervibe**](https://github.com/strangervibe)
 
 [![GitHub](https://img.shields.io/badge/Geliştirici-strangervibe-181717?style=flat-square&logo=github)](https://github.com/strangervibe)
 [![Niyaz](https://img.shields.io/badge/Diğer%20Proje-Niyaz%20Mobile-1B6B4A?style=flat-square&logo=appveyor)](https://github.com/strangervibe/Niyaz)
